@@ -8,6 +8,12 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
     },
+    txt: {
+        fontFamily: 'OptimusPrinceps',
+        fontSize: '50px',
+        color: 'gold',
+        marginBottom: '50px',
+    },
     logo: {
         width: '400px',
         height: '340px',

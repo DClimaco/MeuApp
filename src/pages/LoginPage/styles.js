@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'grey',
         padding: '10px',
         fontSize: '20px',
+        fontFamily: 'OptimusPrinceps',
         opacity: '0.9',
         border: '1px solid gold',
         borderRadius: '5px',
@@ -35,7 +36,8 @@ const styles = StyleSheet.create({
     },
     btnTxt: {
         fontSize: '22px',
-        color: 'gold'
+        color: 'gold',
+        fontFamily: 'OptimusPrinceps',
     },
     viewLinks:{
         flexDirection: 'row',
